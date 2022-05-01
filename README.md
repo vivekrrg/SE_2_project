@@ -1,2 +1,2 @@
 # Online book store
-Software Engineering College project 
+Software Engineering College Project 
